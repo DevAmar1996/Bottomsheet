@@ -338,13 +338,14 @@ open class BottomSheetView: UIView {
 
     /// show bottom sheet as top mode or full open
     /// - Parameter topMode:flag for show bottom sheet from top mode status
-    open func show(topMode: Bool = false) {
-        if topMode {
-            showTopMode()
-        } else {
-            show()
-        }
-    }
+    /// TODO: Fix top mode bttom sheet
+//    open func show() {
+//        if false {
+//            showTopMode()
+//        } else {
+//            show()
+//        }
+//    }
 
     /// show sheet in top mode
     private func showTopMode() {
@@ -378,7 +379,7 @@ open class BottomSheetView: UIView {
     }
 
     /// show full sheet
-    private func show() {
+    open func show() {
         guard let rootViewController =  UIApplication.shared.windows.filter({ $0.isKeyWindow }).first?.rootViewController else { return }
         willShowSheet()
         rootViewController.present(viewController, animated: false) {
