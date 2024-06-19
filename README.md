@@ -32,10 +32,8 @@ dependencies: [
 ## Usage
 To start using the component, you need to import Bottom SheetView into your project:
 
-```markdown
-`
+```swift
 import BottomSheetView
-`
 ```
 
 ### Creating a Custom Bottom Sheet
