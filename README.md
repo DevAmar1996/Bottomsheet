@@ -18,14 +18,14 @@ BottomSheetView is a customizable, easy-to-use bottom sheet component for iOS ap
 To integrate BottomSheetView into your Xcode project using CocoaPods, specify it in your Podfile:
 
 ```markdown
-pod 'BottomSheetView', '~> 1.0.0' 
+pod 'BottomSheetView', '~> 1.0.1' 
 ```
 ### Swift Package Manager
 To add BottomSheetView as a dependency to your Swift package, add it to the dependencies value of your Package.swift file:
 
 ```markdown
 dependencies: [
-    .package(url: "https://github.com/DevAmar1996/Bottomsheet", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/DevAmar1996/Bottomsheet", .upToNextMajor(from: "1.0.1"))
 ]
 ```
 
