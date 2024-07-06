@@ -77,7 +77,3 @@ override func viewWill: Transition(to size: CGSize, with coordinator: UIViewCont
 }
 ```
 
-### csutomization 
-Remember, you can fully customize the appearance and behavior of your bottom sheet within your SampleBottomSheet subclass. Define your UI elements and interactions within the .nib file and corresponding Swift file to fit the specific needs of your application.
-
-
