@@ -25,7 +25,7 @@ To add BottomSheetView as a dependency to your Swift package, add it to the depe
 
 ```markdown
 dependencies: [
-    .package(url: "https://github.com/DevAmar1996/Bottomsheet", .upToNextMajor(from: "1.0.1"))
+    .package(url: "https://github.com/DevAmar1996/Bottomsheet", .upToNextMinor(from: "1.0.1"))
 ]
 ```
 
