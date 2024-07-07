@@ -3,6 +3,11 @@
 ## Description
 BottomSheetView is a customizable, easy-to-use bottom sheet component for iOS apps. With the introduction of native bottom sheet support in iOS 15, many applications require similar functionality for earlier iOS versions. BottomSheetView addresses this need by providing a solution that is compatible with iOS 13 and above. It allows developers to quickly integrate a fully functional bottom sheet with customizable behaviors and animations.
 
+
+## How it looks like
+https://github.com/DevAmar1996/Bottomsheet/assets/25552827/72c0c2fd-ad08-4f00-a84f-c9f1450ec7f4
+
+
 ## Features
 * Customizable appearance and transitions.
 * Gesture-based interactions (pan and tap).
@@ -10,10 +15,6 @@ BottomSheetView is a customizable, easy-to-use bottom sheet component for iOS ap
 * Keyboard interaction handling.
 * Dynamic height adjustment based on content.
 * Compatibility with both iPhones and iPads.
-
-## How it looks like
-https://github.com/DevAmar1996/Bottomsheet/assets/25552827/72c0c2fd-ad08-4f00-a84f-c9f1450ec7f4
-
 
 ## Installation
 
