@@ -11,6 +11,9 @@ BottomSheetView is a customizable, easy-to-use bottom sheet component for iOS ap
 * Dynamic height adjustment based on content.
 * Compatibility with both iPhones and iPads.
 
+## How it looks like
+https://github.com/DevAmar1996/Bottomsheet/assets/25552827/72c0c2fd-ad08-4f00-a84f-c9f1450ec7f4
+
 
 ## Installation
 
